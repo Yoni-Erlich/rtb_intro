@@ -144,6 +144,6 @@ pids
 
 .DS_Store
 Thumbs.db
-arpeely_venv
-/arpeely_venv
+my_venv
+/my_venv
 *.csv

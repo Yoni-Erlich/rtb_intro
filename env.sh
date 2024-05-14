@@ -1,5 +1,5 @@
 # Set the name of the virtual environment
-ENV_NAME="arpeely_venv"
+ENV_NAME="my_venv"
 
 # Check if the virtual environment directory exists
 if [ -d "$ENV_NAME" ]; then
